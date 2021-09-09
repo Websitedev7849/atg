@@ -2,8 +2,9 @@
   "name": "atg",
   "version": "1.0.0",
   "description": "project for Around the globe",
-  "main": "index.js",
+  "main": "./server/index.js",
   "scripts": {
+    "start": "node server/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "siddharth pawar",
